@@ -1,7 +1,6 @@
 # Z Labs Bitmap JP
 
-「Z Labs Bitmap JP」是一款以 [GNU Unifont](https://www.unifoundry.com/unifont/index.html) 为灵感而制作的小型像素字体，也是 [Z Labs Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) 的日语子集变种。这套字体在 11 * 12 的像素空间（实际占用 12 * 12 像素）中，借鉴了 Unifont 字体的部分特征，同时进行创造性转化而成。
-
+「Z Labs Bitmap JP」是一款小型日文像素字体，也是 [Z Labs Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) 的日语子集变种。这套字体使用了 11 * 12 的像素空间（为防止粘连，实际占用 12 * 12 像素）。
 > [!WARNING]
 > 
 > 本字体遵循**日本规范字形**，仅收录了日语相关汉字。
