@@ -1,6 +1,10 @@
 # Z Labs Bitmap JP
 
 「Z Labs Bitmap JP」是一款小型日文像素字体，也是 [Z Labs Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) 的日语子集变种。这套字体使用了 11 * 12 的像素空间（为防止粘连，实际占用 12 * 12 像素）。
+
+> [!CAUTION]
+> 本项目已合并至主仓库[「Z Labs Bitmap 12px」](https://github.com/Astro-2539/ZLabs-Bitmap)中，三种变体字形统一维护，该仓库不再更新。欲下载字体的最新版本，请前往主项目的[ Release 页面](https://github.com/Astro-2539/ZLabs-Bitmap/releases)中，并使用 JP 变体字形。
+
 > [!WARNING]
 > 
 > 本字体遵循**日本规范字形**，仅收录了日语相关汉字。
